@@ -100,8 +100,8 @@ fig.update_yaxes(showline=True, linewidth=0.5, linecolor='white', mirror=True)
 app.layout = html.Div(
     children=[
         html.Div(
-            children=html.Img(src='assets/logo.png', style={'height': '60px'}),
-            style={'textAlign': 'center', 'padding': '20px'}
+            children=html.Img(src='assets/logo2.png', style={'height': '60px'}),
+            style={'textAlign': 'center', 'padding': '40px'}
         ),
         dcc.Graph(id='productivity-graph', figure=fig)
     ],

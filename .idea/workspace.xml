@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d850a70-56ef-4e39-9530-61f760e829cf" name="Changes" comment="work lauch">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyGroups/NewSystem.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xkadzama"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xkadzama/ProdAssessmentAnsar.git",
+    "accountId": "71199a5e-503f-4006-9e15-410cab1a5a2b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -48,8 +59,8 @@
       <recent name="C:\Users\User\m1Lesson2\ProdAssessment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\m1Lesson2\ProdAssessment" />
       <recent name="C:\Users\User\m1Lesson2\ProdAssessment\assets" />
+      <recent name="C:\Users\User\m1Lesson2\ProdAssessment" />
       <recent name="C:\Users\User\m1Lesson2\ProdAssessment\MyGroups" />
     </key>
   </component>
@@ -128,7 +139,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722397830888</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="work lauch">
+      <option name="closed" value="true" />
+      <created>1722398497850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722398497850</updated>
+    </task>
+    <task id="LOCAL-00003" summary="work lauch">
+      <option name="closed" value="true" />
+      <created>1722398694267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722398694267</updated>
+    </task>
+    <task id="LOCAL-00004" summary="work lauch">
+      <option name="closed" value="true" />
+      <created>1722398736164</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722398736164</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
