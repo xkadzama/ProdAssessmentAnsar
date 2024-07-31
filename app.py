@@ -91,7 +91,7 @@ fig.update_layout(
     xaxis_title='Дни',
     yaxis_title='Продуктивность'
 )
-
+d
 # задаем стиль границ графика
 fig.update_xaxes(showline=True, linewidth=0.5, linecolor='white', mirror=True)
 fig.update_yaxes(showline=True, linewidth=0.5, linecolor='white', mirror=True)
